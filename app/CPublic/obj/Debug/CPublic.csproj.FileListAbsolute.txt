@@ -1,0 +1,25 @@
+D:\Documents\Files\My Folders\Public Projects\CPublic\CPublic\bin\Debug\CPublic.exe.config
+D:\Documents\Files\My Folders\Public Projects\CPublic\CPublic\bin\Debug\CPublic.exe
+D:\Documents\Files\My Folders\Public Projects\CPublic\CPublic\bin\Debug\CPublic.pdb
+D:\Documents\Files\My Folders\Public Projects\CPublic\CPublic\obj\Debug\CPublic.csprojAssemblyReference.cache
+D:\Documents\Files\My Folders\Public Projects\CPublic\CPublic\obj\Debug\CPublic.Form1.resources
+D:\Documents\Files\My Folders\Public Projects\CPublic\CPublic\obj\Debug\CPublic.Main.resources
+D:\Documents\Files\My Folders\Public Projects\CPublic\CPublic\obj\Debug\CPublic.Properties.Resources.resources
+D:\Documents\Files\My Folders\Public Projects\CPublic\CPublic\obj\Debug\CPublic.csproj.GenerateResource.cache
+D:\Documents\Files\My Folders\Public Projects\CPublic\CPublic\obj\Debug\CPublic.csproj.CoreCompileInputs.cache
+D:\Documents\Files\My Folders\Public Projects\CPublic\CPublic\obj\Debug\CPublic.exe
+D:\Documents\Files\My Folders\Public Projects\CPublic\CPublic\obj\Debug\CPublic.pdb
+C:\Users\levih\Desktop\CPublic\CPublic.exe.config
+C:\Users\levih\Desktop\CPublic\CPublic.exe
+C:\Users\levih\Desktop\CPublic\CPublic.pdb
+D:\Documents\Files\My Folders\Public Projects\CPublic\CPublic\obj\Debug\CPublic.Credits.resources
+D:\Everything\Files\My Folders\Public Projects\CPublic\CPublic\obj\Debug\CPublic.csprojAssemblyReference.cache
+D:\Everything\Files\My Folders\Public Projects\CPublic\CPublic\obj\Debug\CPublic.Credits.resources
+D:\Everything\Files\My Folders\Public Projects\CPublic\CPublic\obj\Debug\CPublic.Launcher.resources
+D:\Everything\Files\My Folders\Public Projects\CPublic\CPublic\obj\Debug\CPublic.Form1.resources
+D:\Everything\Files\My Folders\Public Projects\CPublic\CPublic\obj\Debug\CPublic.Main.resources
+D:\Everything\Files\My Folders\Public Projects\CPublic\CPublic\obj\Debug\CPublic.Properties.Resources.resources
+D:\Everything\Files\My Folders\Public Projects\CPublic\CPublic\obj\Debug\CPublic.csproj.GenerateResource.cache
+D:\Everything\Files\My Folders\Public Projects\CPublic\CPublic\obj\Debug\CPublic.csproj.CoreCompileInputs.cache
+D:\Everything\Files\My Folders\Public Projects\CPublic\CPublic\obj\Debug\CPublic.exe
+D:\Everything\Files\My Folders\Public Projects\CPublic\CPublic\obj\Debug\CPublic.pdb
