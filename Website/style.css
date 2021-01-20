@@ -1,0 +1,13 @@
+* {
+    color: white;
+    background-color: #222;
+}
+
+.main {
+    text-align: center;
+}
+
+body {
+    font-family: 'Qucksand', sans-serif, Arial;
+    line-height: 1;
+}
